@@ -1,0 +1,134 @@
+
+
+/*----------header----------*/
+
+
+
+.logo{
+    background: url(logggooo.png);
+    min-height: 280px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.menuitem{
+    text-align: center;
+    padding: 10px 10px;
+    border-color: #f88379;
+    background-color: #f88379;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: "coda", cursive;
+}
+
+span{
+    color: #ffffff;
+}
+
+.menuitem a{
+    text-decoration: none;
+}
+
+span:hover{
+    color:#fa0505;
+    transition: ease-in-out;
+}
+
+/*----------footer----------*/
+
+.footer-color{
+    background-color: #f88379;
+    color: #ffffff;
+    text-align: center;
+    padding: 40px;
+}
+
+h1{
+    font-family: "coda", sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    padding-left: 100px;
+}
+
+.social-color{
+    background-color: #f88379;
+    float: right;
+}
+
+
+.social-color a i {
+    text-decoration: none;
+    font-size: 30px;
+    float: left;
+    padding: 90px 10px 10px 10px;
+    color: #ffffff;
+    
+}
+
+.social-color a i:hover{
+    color:#fa0505;
+}
+
+/*----------gallery----------*/
+
+.img1, .img2, .img3, .img4 {
+    max-height: 400px;
+    max-width: 400px;
+    border-radius: 30%;
+    padding: 50px;
+    margin-left: 100px;
+}
+
+/*----------download----------*/
+
+.download-plan a i{
+    color: #f88379;
+    font-size: 150px;
+    text-align: center;
+    padding: 100px;
+    padding-bottom: 30px;
+    padding-top: 60px;
+}
+
+.download-plan a i:hover{
+    color:#fa0505;
+}
+
+.download-text{
+    padding-left:160px;
+    padding-right:30px;
+    padding-bottom: 20px;
+    font-family: "coda", sans-serif;
+    text-align: center;
+    color: #f88379;
+}
+
+/*----------contact----------*/
+
+.form {
+    padding: 20px 40px;
+    color: #f88379;
+}
+
+/*----------index----------*/
+
+.headshot {
+    background: url(IMG_0739.jpg);
+    min-height: 280px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    padding: 50px;
+    border-radius: 30%;
+    margin: 50px;
+}
+
+.paragraph {
+    font-family:"coda", sans-serif;
+    color: #f88379;
+    
+}
+
+
+
