@@ -1,10 +1,6 @@
-
-
 /*----------header----------*/
 
-
-
-.logo{
+.logo {
     background: url(logggooo.png);
     min-height: 280px;
     background-repeat: no-repeat;
@@ -12,7 +8,7 @@
     background-position: center;
 }
 
-.menuitem{
+.menuitem {
     text-align: center;
     padding: 10px 10px;
     border-color: #f88379;
@@ -22,36 +18,36 @@
     font-family: "coda", cursive;
 }
 
-span{
+span {
     color: #ffffff;
 }
 
-.menuitem a{
+.menuitem a {
     text-decoration: none;
 }
 
-span:hover{
-    color:#fa0505;
+span:hover {
+    color: #fa0505;
     transition: ease-in-out;
 }
 
 /*----------footer----------*/
 
-.footer-color{
+.footer-color {
     background-color: #f88379;
     color: #ffffff;
     text-align: center;
     padding: 40px;
 }
 
-h1{
+h1 {
     font-family: "coda", sans-serif;
     text-transform: uppercase;
     text-align: center;
     padding-left: 100px;
 }
 
-.social-color{
+.social-color {
     background-color: #f88379;
     float: right;
 }
@@ -63,26 +59,31 @@ h1{
     float: left;
     padding: 90px 10px 10px 10px;
     color: #ffffff;
-    
+
 }
 
-.social-color a i:hover{
-    color:#fa0505;
+.social-color a i:hover {
+    color: #fa0505;
 }
 
 /*----------gallery----------*/
 
-.img1, .img2, .img3, .img4 {
+.img {
     max-height: 400px;
     max-width: 400px;
     border-radius: 30%;
     padding: 50px;
     margin-left: 100px;
+    webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
 }
 
 /*----------download----------*/
 
-.download-plan a i{
+.download-plan a i {
     color: #f88379;
     font-size: 150px;
     text-align: center;
@@ -91,13 +92,13 @@ h1{
     padding-top: 60px;
 }
 
-.download-plan a i:hover{
-    color:#fa0505;
+.download-plan a i:hover {
+    color: #fa0505;
 }
 
-.download-text{
-    padding-left:160px;
-    padding-right:30px;
+.download-text {
+    padding-left: 160px;
+    padding-right: 30px;
     padding-bottom: 20px;
     font-family: "coda", sans-serif;
     text-align: center;
@@ -109,6 +110,8 @@ h1{
 .form {
     padding: 20px 40px;
     color: #f88379;
+    border-color: #f88379;
+    border: solid 2px;
 }
 
 /*----------index----------*/
@@ -122,16 +125,13 @@ h1{
     margin-top: 40px;
     border-radius: 30%;
     margin-bottom: 40px;
-    
+
 }
 
 .paragraph {
-    font-family:"coda", sans-serif;
+    font-family: "coda", sans-serif;
     color: #f88379;
     margin-top: 40px;
     margin-bottom: 40px;
-    
+
 }
-
-
-
