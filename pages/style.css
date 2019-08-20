@@ -118,15 +118,18 @@ h1{
     min-height: 280px;
     background-repeat: no-repeat;
     background-size: contain;
-    background-position: center;
-    padding: 50px;
+    background-position: left;
+    margin-top: 40px;
     border-radius: 30%;
-    margin: 50px;
+    margin-bottom: 40px;
+    
 }
 
 .paragraph {
     font-family:"coda", sans-serif;
     color: #f88379;
+    margin-top: 40px;
+    margin-bottom: 40px;
     
 }
 
