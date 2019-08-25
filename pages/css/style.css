@@ -1,11 +1,8 @@
 /*----------header----------*/
 
 .logo {
-    background: url(logggooo.png);
     min-height: 280px;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: center;
+    padding-left: 200px;
 }
 
 .menuitem {
@@ -116,16 +113,17 @@ h1 {
 
 /*----------index----------*/
 
-.headshot {
-    background: url(IMG_0739.jpg);
-    min-height: 280px;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: left;
-    margin-top: 40px;
+.img1 {
+    max-height: 300px;
+    max-width: 300px;
     border-radius: 30%;
-    margin-bottom: 40px;
-
+    webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+    margin-top: 60px;
+    margin-left: 40px;
 }
 
 .paragraph {
@@ -135,3 +133,5 @@ h1 {
     margin-bottom: 40px;
 
 }
+
+
