@@ -1,14 +1,10 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+<h1> You&i Fitness </h1>
 
+<p>My first milestone project is a website for a studio gym that my sister owns.
 
-Hi there! Welcome to AWS Cloud9!
+The website has four pages in total. The first page provides a short introduction to my sister and the studio gym where she trains her clients. 
+There is then a gallery page showing pictures of the gym and of Danielle with clients.
+A contact page with a form allowing clients/potential customers to reach out and contact Danielle with any questions of enquiries about sessions.
+The final page is a donwload page with a link to an example programme that is free to downlaod to anyone interested. 
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
-
-Happy coding!
+<h2><u>UX</u></h2>
