@@ -54,11 +54,6 @@ needs and requirements. <br>
 <u>Please find the mockups of the website in the 'mockup' folder on Github. Made using Balsamiq.</u>
 
 
-external libraries:
-bootstraop 
-font awesome 
-google fonts 
-
 <h2><u>Features</u></h2>
 
 <u>1. Navigation bar.</u>
