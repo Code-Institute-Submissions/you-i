@@ -1,19 +1,28 @@
 /*----------header----------*/
 
 .logo {
-    min-height: 280px;
-    padding-left: 200px;
-    
+    max-height: 700px;
+    max-width: 700px;
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navigation {
+    border-color: #f88379;
+    background-color: #f88379;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .menuitem {
-    text-align: center;
-    padding: 10px 10px;
-    border-color: #f88379;
-    background-color: #f88379;
-    font-size: 20px;
+    font-size: 18px;
     text-transform: uppercase;
     font-family: "coda", cursive;
+    list-style: none;
+    text-align: center;
+    padding: 5px;
 }
 
 span {
@@ -35,48 +44,47 @@ span:hover {
     background-color: #f88379;
     color: #ffffff;
     text-align: center;
-    padding: 40px;
+    width: 100%;
+    
 }
 
 h1 {
     font-family: "coda", sans-serif;
     text-transform: uppercase;
     text-align: center;
-    padding-left: 100px;
-}
-
-.social-color {
-    background-color: #f88379;
-    float: right;
+    padding-top: 5px;
+    
 }
 
 
-.social-color a i {
+.footer-color a i {
     text-decoration: none;
     font-size: 30px;
-    float: left;
-    padding: 90px 10px 10px 10px;
     color: #ffffff;
+    padding: 10px;
+   
 
 }
 
-.social-color a i:hover {
+.footer-color a i:hover {
     color: #fa0505;
 }
 
 /*----------gallery----------*/
 
 .img {
-    max-height: 400px;
-    max-width: 400px;
+    max-height: 275px;
+    max-width: 275px;
     border-radius: 30%;
     padding: 50px;
-    margin-left: 100px;
     webkit-transform: rotate(90deg);
     -moz-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     -o-transform: rotate(90deg);
     transform: rotate(90deg);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /*----------download----------*/
@@ -95,13 +103,13 @@ h1 {
 }
 
 .download-text {
-    padding-left: 160px;
-    padding-right: 30px;
     padding-bottom: 20px;
     font-family: "coda", sans-serif;
     text-align: center;
     color: #f88379;
 }
+
+
 
 /*----------contact----------*/
 
@@ -110,29 +118,6 @@ h1 {
     color: #f88379;
     border-color: #f88379;
     border: solid 2px;
-}
-
-/*----------index----------*/
-
-.img1 {
-    max-height: 300px;
-    max-width: 300px;
-    border-radius: 30%;
-    webkit-transform: rotate(90deg);
-    -moz-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
-    -o-transform: rotate(90deg);
-    transform: rotate(90deg);
-    margin-top: 60px;
-    margin-left: 40px;
-}
-
-.paragraph {
-    font-family: "coda", sans-serif;
-    color: #f88379;
-    margin-top: 40px;
-    margin-bottom: 40px;
-
 }
 
 button {
@@ -149,5 +134,33 @@ button:hover{
     background-color: #fa0505;
     transition: ease-in-out;
 }
+
+/*----------index----------*/
+
+.img1 {
+    max-height: 300px;
+    max-width: 300px;
+    border-radius: 30%;
+    webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.paragraph {
+    font-family: "coda", sans-serif;
+    color: #f88379;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+
+
+
 
 
