@@ -96,11 +96,17 @@ fill out the form to continue. <br>
 
 All the links in the navbar go to the correct page. The back space is not needed to navigate around the webiste.<br>
 
+I then used the W3C html and css checker https://validator.w3.org on the code for each page of my website, I then fixed any errors.
+Mainly being a </img> that was not needed, and <img> tags not having the "alt" attribute. 
+
+
 
 <h2><u>Deployment:</h2></u>
 I used GitHub as the local repository for my website. 
 opening the terminal on cloud 9 and then commiting my pages to github, I made sure to commit any new work frequently to ensure
 that no work was lost and  that it was all kept up-to-date. 
+
+The code was then locally deployed by going into the settings on my repository and publishing the code to get a local link. https://cnridley.github.io/you-i/
 
 <h2><u>Credits</h2></u>
 The text and media for this wesbite was provided by Danielle, the owner of the gym. She also provided the inspriation 
